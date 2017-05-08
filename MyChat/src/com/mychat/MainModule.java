@@ -24,3 +24,4 @@ import com.mychat.setup.SystemSetup;
 @SetupBy(SystemSetup.class)
 public class MainModule {
 }
+
