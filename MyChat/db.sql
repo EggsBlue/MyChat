@@ -14,6 +14,7 @@ MySQL - 5.1.49-community : Database - mychat
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`mychat` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
+
 USE `mychat`;
 
 /*Table structure for table `chatmessage` */
